@@ -4,7 +4,7 @@
 
 ### July
 
-- Week 1 ()
+- **[Task 1](https://github.com/HeimanPictures/SOSC-App-Dev/blob/main/July/Task%201/README.md)**
 
 ## Contact
 
