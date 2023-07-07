@@ -2,7 +2,7 @@
 
 ## Procedure
 
-- To register yourself, create a folder with your username.
+- To register yourself, create a folder with your username (Eg. `heimanpictures`).
 - Then create a file with name `member.json`.
 - Now add your details as given example:
 ```json
