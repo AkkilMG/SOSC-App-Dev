@@ -8,7 +8,7 @@
 
 ## Contact
 
-- [Discussions](https://github.com/HeimanPictures/SOSC-App-Dev/discussions/1)
+- [Discussions](https://github.com/HeimanPictures/SOSC-App-Dev/discussions/)
 - WhatsApp Group
 
 ## Moderators
