@@ -8,7 +8,7 @@ Hello Techies, welcome to SOSC App Development Task. Here we will provide you ta
 
 ### July
 
-- **[Task 1](https://github.com/HeimanPictures/SOSC-App-Dev/blob/main/July/Task%201/README.md)**
+- **[Task 1](https://github.com/HeimanPictures/SOSC-App-Dev/blob/main/July/Task1/README.md)**
 
 ## Contact
 
